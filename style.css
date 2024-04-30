@@ -1,3 +1,23 @@
 body {
     background-color: rgb(8, 59, 76);
 }
+
+#number-i {
+    background-color: rgb(19, 137, 178);
+}
+
+#fizz {
+    background-color: rgb(12, 214, 161);
+}
+
+#buzz {
+    background-color: rgb(255, 209, 102);
+}
+
+#fizzbuzz {
+    background-color: rgb(240, 70, 111);
+}
+
+.h1-font-size {
+    font-size: 100px;
+}
